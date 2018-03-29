@@ -1,0 +1,61 @@
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Oxygen', sans-serif;
+      color: blue;
+      font-weight: 700;
+       font-family: 'Oxygen', sans-serif;
+      text-shadow: 4px 5px 3px gray;
+    
+}
+
+h3{
+     font-family: 'Oxygen', sans-serif;
+      font-weight: 300;
+      font-size:50px;
+}
+
+h2{
+     font-family: 'Oxygen', sans-serif;
+      font-weight: 400;
+}
+
+.fa-bath{
+    color:purple;
+    font-size: 100px;
+    text-shadow: 10px -10px 3px blue;
+}
+/*about Page Syles*/
+.content-1{
+    margin: 10px;
+}
+.left{
+    display: inline-block;
+    
+    
+}
+ .left img{
+     height:150px;
+     float: left;
+ }   
+ .right{
+     display: inline-block;
+     width:70%;
+ }
+ .right p{
+     margin:0 10px;
+     
+ }
+ .content-3 div{
+     display: inline-block;
+     width: 30%;
+     margin: 10px;
+ }
+ #my-btn{
+     background-color: yellow;
+     box-shadow:5px 20px #888888;
+ }
+ 
